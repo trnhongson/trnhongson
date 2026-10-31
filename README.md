@@ -1,136 +1,128 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:1E3A5F,60:0D9488,100:34D399&height=240&section=header&text=HONG%20SON&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20%2F%20FULL-STACK%20%2F%20VIETNAM&descSize=16&descAlignY=60&animation=fadeIn" alt="Hong Son" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0720,50:4C1D95,100:A78BFA&height=200&text=HONG%20SON&fontSize=60&fontColor=FFFFFF&fontAlignY=50&animation=twinkling" alt="Hong Son" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=34D399&center=true&vCenter=true&random=false&width=500&lines=Building+useful+things.;Learning+how+systems+work.;Turning+ideas+into+real+applications." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=520&lines=%E2%9A%A1+Backend+Developer;%F0%9F%8C%8F+From+Vietnam;%F0%9F%9A%80+Always+shipping+something+new" alt="Typing SVG" />
 </a>
 
 <br />
 
 <p>
-IT student from Vietnam with a growing focus on backend engineering.<br />
-Turning everyday problems into practical applications.
+I write code that runs behind the scenes & makes things work.<br />
+Fascinated by how large systems stay reliable at scale.
 </p>
 
 <a href="https://github.com/trnhongson">
-  <img src="https://img.shields.io/badge/GitHub-trnhongson-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/trnhongson-0F0720?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub" />
 </a>
 <a href="mailto:tranhongson.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-0D9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/tranhongson.dev-0F0720?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" />
 </a>
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=trnhongson&label=PROFILE+VIEWS&color=0d9488&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=trnhongson&label=visitors&color=A78BFA&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👨‍💻 Behind the code
+## 💡 A bit about me
 
-I enjoy building software that solves real problems. My current projects help me connect frontend development with backend logic, databases, and the decisions that make a system easier to maintain.
+I'm a CS student in Vietnam who treats every side project as a chance to learn something deeper. Right now I'm obsessed with how backend systems handle complexity — from database indexing strategies to designing APIs that other developers actually enjoy using.
 
-- 🛠️ **Building** small e-commerce and warehouse management applications.
-- 🌱 **Learning** system design, backend architecture, and performance optimization.
-- 🧩 **Exploring** microservices, service boundaries, and architectural trade-offs.
-- 🤝 **Looking to collaborate** on backend systems, APIs, and full-stack open-source projects.
-- 💬 **Happy to discuss** JavaScript, TypeScript, Node.js, React, Express, Spring, databases, and Java.
+```js
+const hongSon = {
+  focus     : ["Backend Engineering", "System Design", "Full-Stack"],
+  building  : ["E-commerce platforms", "Warehouse management tools"],
+  learning  : ["Microservices", "Performance tuning", "Clean architecture"],
+  ask_about : ["Node.js", "Spring Boot", "React", "Databases", "Docker"],
+};
+```
 
 <br />
 
-## ⚡ My development toolkit
+## 🧰 Tech stack
 
 <div align="center">
 
-<h4>🔤 Languages</h4>
-
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp&theme=dark" alt="JavaScript, TypeScript, Java, Python, C++" />
-
-<h4>🔧 Backend & APIs</h4>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask&theme=dark" alt="Node.js, Express, Spring, Django, Flask" />
-
-<h4>🎨 Frontend</h4>
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="React, HTML, CSS, Tailwind CSS" />
-
-<h4>🗄️ Databases & Infrastructure</h4>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Docker" />
-
-<h4>🛠️ Tools & Workflow</h4>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" alt="Git, GitHub, VS Code, Postman, Linux" />
+<table>
+<tr>
+<td align="center" width="150"><b>🔤 Languages</b></td>
+<td align="center" width="150"><b>🔧 Backend</b></td>
+<td align="center" width="150"><b>🎨 Frontend</b></td>
+<td align="center" width="150"><b>🗄️ Data</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp&theme=dark&perline=3" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask&theme=dark&perline=3" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark&perline=2" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker&theme=dark&perline=2" /></td>
+</tr>
+</table>
 
 </div>
 
 <br />
 
-## 🎯 What I'm working toward
+## 🎯 Where I'm headed
 
-| Focus | My goal |
+| | |
 | :--- | :--- |
-| **Backend engineering** | Design clear APIs and maintainable business logic. |
-| **System design** | Understand scalability, service boundaries, and trade-offs. |
-| **Full-stack development** | Connect useful interfaces with reliable backend services. |
-| **Performance** | Measure bottlenecks and improve application efficiency. |
+| 🧩 **API Design** | Craft intuitive, well-documented endpoints that scale. |
+| 🏗️ **Architecture** | Learn to decompose monoliths into the right services. |
+| ⚡ **Performance** | Profile, measure, then optimize — in that order. |
+| 🌐 **Full-Stack** | Bridge the gap between great UX and solid infrastructure. |
 
 <br />
 
-## 📊 GitHub activity
+## 📈 Stats
 
 <div align="center">
 
 <a href="https://github.com/trnhongson">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=trnhongson&show_icons=true&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=0D9488&text_color=CBD5E1&rank_icon=github" alt="Hong Son's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=trnhongson&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C4B5FD&text_color=E2E8F0&rank_icon=github" alt="Stats" />
 </a>
 <a href="https://github.com/trnhongson?tab=repositories">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trnhongson&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=CBD5E1" alt="Most used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trnhongson&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" alt="Languages" />
 </a>
 
 <br />
 
-<a href="https://github.com/trnhongson">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=trnhongson&theme=dark&hide_border=true&background=0D1117&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=CBD5E1&dates=CBD5E1&stroke=1E3A5F" alt="GitHub Streak" />
-</a>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=trnhongson&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=94A3B8&stroke=1E1B4B" alt="Streak" />
+
+<br />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=trnhongson&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true" alt="Activity" />
 
 </div>
 
 <br />
 
-<div align="center">
+## 🤝 Let's connect
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=trnhongson&bg_color=0D1117&color=34D399&line=0D9488&point=34D399&area=true&area_color=0D9488&hide_border=true" alt="Contribution Graph" width="95%" />
-
-</div>
-
-<br />
-
-## 🌏 Let's build something useful
-
-Have a project idea, an interesting backend problem, or something you want to learn together? Let's connect.
+Got an interesting problem or want to build something together? I'm always up for a good conversation about code.
 
 <div align="center">
 
 <br />
 
 <a href="mailto:tranhongson.dev@gmail.com">
-  <img src="https://img.shields.io/badge/LET'S_TALK-0D9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's talk by email" />
+  <img src="https://img.shields.io/badge/REACH_OUT-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
 </a>
 <a href="https://github.com/trnhongson?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_CODE-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
+  <img src="https://img.shields.io/badge/SEE_MY_WORK-0F0720?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Repos" />
 </a>
 
 <br /><br />
 
-**[tranhongson.dev@gmail.com](mailto:tranhongson.dev@gmail.com)**
+	ranhongson.dev@gmail.com
 
 <br />
 
-*Build. Learn. Improve. Repeat.* 🔁
+*Ship fast. Break things. Fix them better.* 🚀
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:1E3A5F,60:0D9488,100:34D399&height=110&section=footer" alt="Decorative footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0720,50:4C1D95,100:A78BFA&height=3&section=footer" alt="" />
 
 </div>
