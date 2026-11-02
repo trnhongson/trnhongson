@@ -27,17 +27,17 @@
 
 ### 🧰 Tech Stack
 
-- **Languages:**  
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp&theme=dark" alt="Languages" />
+**Languages:**  
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp&theme=dark" alt="Languages" />
 
-- **Backend & APIs:**  
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask&theme=dark" alt="Backend" />
+**Backend & APIs:**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask&theme=dark" alt="Backend" />
 
-- **Frontend:**  
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="Frontend" />
+**Frontend:**  
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="Frontend" />
 
-- **Databases & DevOps:**  
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker&theme=dark" alt="Databases and DevOps" />
+**Databases & DevOps:**  
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker&theme=dark" alt="Databases and DevOps" />
 
 ---
 
