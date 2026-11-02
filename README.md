@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,100:10B981&height=180&section=header&text=Trần%20Hồng%20Sơn&fontSize=42&fontColor=FFFFFF&fontAlignY=45&desc=Backend%20Developer%20%7C%20IT%20Student%20from%20Vietnam&descSize=16&descAlignY=68" alt="Trần Hồng Sơn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1E40AF,100:3B82F6&height=180&section=header&text=Trần%20Hồng%20Sơn&fontSize=42&fontColor=FFFFFF&fontAlignY=45&desc=Backend%20Developer%20%7C%20Vietnam&descSize=16&descAlignY=68" alt="Trần Hồng Sơn" />
 
 <p align="center">
   <a href="https://github.com/trnhongson">
-    <img src="https://img.shields.io/badge/GitHub-trnhongson-0D1117?style=flat-square&logo=github&logoColor=34D399" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-trnhongson-0D1117?style=flat-square&logo=github&logoColor=60A5FA" alt="GitHub" />
   </a>
   <a href="mailto:sontran310306@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sontran310306%40gmail.com-065F46?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-sontran310306%40gmail.com-1D4ED8?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=trnhongson&label=Profile%20Views&color=10B981&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=trnhongson&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile views" />
 </p>
 
 </div>
@@ -52,8 +52,8 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img width="48%" src="https://gh-readme-stats.vercel.app/api?username=trnhongson&show_icons=true&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=10B981&text_color=CBD5E1&rank_icon=github" alt="GitHub stats" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=trnhongson&hide_border=true&background=0D1117&stroke=134E4A&ring=34D399&fire=6EE7B7&currStreakNum=ECFDF5&currStreakLabel=34D399&sideNums=ECFDF5&sideLabels=CBD5E1&dates=64748B" alt="Commit streak" />
+  <img width="48%" src="https://gh-readme-stats.vercel.app/api?username=trnhongson&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&rank_icon=github" alt="GitHub stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=trnhongson&hide_border=true&background=0D1117&stroke=1E40AF&ring=3B82F6&fire=60A5FA&currStreakNum=EFF6FF&currStreakLabel=60A5FA&sideNums=EFF6FF&sideLabels=CBD5E1&dates=64748B" alt="Commit streak" />
 </div>
 
 ---
@@ -64,6 +64,6 @@ Whether it's a technical discussion, project collaboration, or just saying hello
 
 <p align="center">
   <a href="mailto:sontran310306@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-065F46?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Send_an_Email-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
